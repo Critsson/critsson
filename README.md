@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Chris</h1>
 <h3 align="center">💡 I am a self-taught full-stack developer learning the mighty ways of the programmer!</h3>
 
-- 👨‍💻 You can check out all of my projects <a href="https://chrisgao.dev" target="_blank">here!</a>
+- 👨‍💻 You can check out all of my projects <a href="https://www.chrisgao.dev" target="_blank">here!</a>
 
 - 📫 Please reach me at **chris.gao77@gmail.com**
 
